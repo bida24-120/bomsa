@@ -39,7 +39,7 @@
 
 <img style="width: 33%;" src="Heel.01.jpg" alt="A cute pair of shoes">
 <img style="width: 33%;" src="Heel.02.jpg" alt="A cute pair of shoes"> 
-<img style="width: 33%;" src="Heel.03.jpg"alt="A cute pair of shoes">
+<img style="width: 33%;" src="Heel.03.jpg" alt="A cute pair of shoes">
 
 
 <p>Visit <a href="https://github.com">GitHub</a> to learn more about coding.</p>
